@@ -1,7 +1,7 @@
 --- End of the day: Dreaming away ---
 
 It happens that you have some time off for once.  
-So you climb up in a place close-by where you can have a good overview of the surrounding place.  
+So you climb up in a place close-by where you can have a good overview of the surroundings.  
 While you are looking at the elfes moving and working all over the place,  
 your brain slowly starts to dream away.
 
