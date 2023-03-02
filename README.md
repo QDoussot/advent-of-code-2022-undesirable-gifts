@@ -5,7 +5,7 @@ So you climb up in a place close-by where you can have a good overview of the su
 While you are looking at the elfes moving and working all over the place,  
 your brain slowly starts to dream away.
 
-You are actually thinking to all the possible gifts that you would not really want (your puzzle input)
+You are actually thinking to all the possible gifts that you would not really want (your puzzle input)  
 You try to thinkg how you could react if that would ever happen and you categorize the gift.
 
 - Alternative gift
